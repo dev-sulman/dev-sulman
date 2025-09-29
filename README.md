@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React ,HTML , CSS ,JAVASCRIPT .TAILWINDCSS,NODEJS**
 
-- 📫 How to reach me **sulmanbashirgujrat777@gmail.com**
+- 📫 How to reach me **sulzax0@gmail.com**
 
 - 📄 MY Resume [https://ibb.co/CKrkKh3h](https://ibb.co/CKrkKh3h)
 
