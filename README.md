@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sulzax0@gmail.com**
 
-- 📄 MY Resume [https://ibb.co/CKrkKh3h](https://ibb.co/CKrkKh3h)
+- 📄 MY Resume [https://ibb.co/tphwrrDF]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
