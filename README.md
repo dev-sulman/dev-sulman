@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sulman Bashir</h1>
 <h3 align="center">I am a passionate web developer dedicated to creating beautiful and professional web designs.</h3>
 
-- 👨‍💻 All of my projects are available at [https://sehar113.github.io/sulman/](https://sehar113.github.io/sulman/)
+- 👨‍💻 All of my projects are available at [https://sulzaxitservices.vercel.app/])
 
 - 💬 Ask me about **React ,HTML , CSS ,JAVASCRIPT .TAILWINDCSS,NODEJS**
 
