@@ -1,24 +1,78 @@
-<h1 align="center">Hi 👋, I'm Sulman Bashir</h1>
-<h3 align="center">I am a passionate web developer dedicated to creating beautiful and professional web designs.</h3>
+# Sulaman Bashir
+### MERN Stack Developer  
 
-- 👨‍💻 All of my projects are available at [https://sulzaxitservices.vercel.app/])
+📞 03045865181 | ✉️ [Sulzax0@gmail.com](mailto:Sulzax0@gmail.com) | 📍 Street no (12), Kharian, Pakistan  
 
-- 💬 Ask me about **React ,HTML , CSS ,JAVASCRIPT .TAILWINDCSS,NODEJS**
+---
 
-- 📫 How to reach me **sulzax0@gmail.com**
+## 👨‍💻 Profile Summary
+I am **Sulaman Bashir**, a results-driven **MERN Stack Developer** passionate about building high-performance, scalable, and intuitive web applications. Skilled in **MongoDB, Express, React, and Node.js**, I specialize in creating user-friendly experiences and delivering projects that exceed expectations.
 
-- 📄 MY Resume [https://ibb.co/tphwrrDF]
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sulman.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sulman.dev" height="30" width="40" /></a>
-</p>
+## 💼 Experience
+**Freelance Web Developer & Graphic Designer**  
+*Upwork | Fiverr | LinkedIn*  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Delivered multiple full-stack projects using the **MERN stack**, including dynamic web applications and dashboards.  
+- Developed responsive and user-friendly web applications for international clients with modern **UI/UX design**.  
+- Integrated backend **APIs** and managed database operations using **MongoDB, Express, and Node.js**.  
+- Built and customized front-end components with **React.js**, ensuring seamless functionality and interactive design.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulmandev&show_icons=true&locale=en&layout=compact" alt="sulmandev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulmandev&show_icons=true&locale=en" alt="sulmandev" /></p>
+## 🛠️ Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulmandev&" alt="sulmandev" /></p>
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, GSAP  
+**Backend:** Node.js, Express.js, API Integration  
+**Database:** MySQL, MongoDB (NoSQL), SQL  
+
+1. **Coffee Website** – Showcase of products with smooth navigation and responsive design.  
+2. **Animation Website** – Interactive website with modern CSS animations.  
+3. **IT Company Website** – Professional design with responsive layout and backend support.  
+4. **Car Website** – Dynamic listings with full CRUD functionality.  
+5. **Perfume E-commerce Website** – Integrated with Firebase for seamless product management.  
+
+**Tools & Technologies:** Git, GitHub, Postman, VS Code, AI tools (MidJourney) for design enhancement, version control, and automation.
+
+---
+
+## 🎓 Education
+**National Logistics Corporation University (ATIN NLC)**  
+B.E. in Computer Science and Engineering  
+
+**Relevant Coursework:** Object-Oriented Programming, Databases, Data Structures & Algorithms, Operating Systems, Computer Networks, Machine Learning, Data Mining, Advanced Data Structures, Information Retrieval, Image Processing  
+
+---
+
+## 💡 Key Skills
+
+**Technical Skills:**  
+- HTML5, CSS3, JavaScript, TypeScript  
+- React.js, Angular, Next.js  
+- Node.js, Express.js, API Integration  
+- MongoDB, MySQL, SQL, Firebase  
+- Bootstrap, Tailwind CSS, GSAP  
+- Git, GitHub, VS Code  
+
+**Soft Skills:**  
+- Problem Solving | Teamwork | Communication | Adaptability  
+- Time Management | Attention to Detail | Creativity | Critical Thinking  
+
+---
+
+## 🔗 Accounts / Projects
+- **LinkedIn:** [https://www.linkedin.com/in/sulzaxdev](https://www.linkedin.com/in/sulzaxdev/)  
+- **GitHub:** [https://github.com/dev-sulman](https://github.com/dev-sulman)  
+
+---
+
+## 🌐 Languages
+- **English:** Proficient  
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sulmandev&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulmandev&show_icons=true&locale=en)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulmandev)
