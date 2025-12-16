@@ -1,78 +1,143 @@
-# Sulaman Bashir
-### MERN Stack Developer  
+<div align="center">
 
-📞 03045865181 | ✉️ [Sulzax0@gmail.com](mailto:Sulzax0@gmail.com) | 📍 Street no (12), Kharian, Pakistan  
+  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Hi 👋, I'm Sulman Bashir</h1>
+  
+  <p>
+    A passionate Web Developer dedicated to creating modern, responsive, and professional web solutions.
+  </p>
 
----
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/sulzaxitservices/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/sulzaxitservices" alt="contributors" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/github/last-commit/sulzaxitservices" alt="last update" />
+    </a>
+    <a href="https://github.com/sulzaxitservices/network/members">
+      <img src="https://img.shields.io/github/forks/sulzaxitservices" alt="forks" />
+    </a>
+    <a href="https://github.com/sulzaxitservices/stargazers">
+      <img src="https://img.shields.io/github/stars/sulzaxitservices" alt="stars" />
+    </a>
+    <a href="https://github.com/sulzaxitservices/issues/">
+      <img src="https://img.shields.io/github/issues/sulzaxitservices" alt="open issues" />
+    </a>
+    <a href="https://github.com/sulzaxitservices/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/sulzaxitservices.svg" alt="license" />
+    </a>
+  </p>
+   
+  <h4>
+    <a href="https://sulzaxitservices.vercel.app/">View Demo</a>
+    <span> · </span>
+    <a href="https://github.com/sulzaxitservices">Documentation</a>
+    <span> · </span>
+    <a href="https://github.com/sulzaxitservices/issues/">Report Bug</a>
+    <span> · </span>
+    <a href="https://github.com/sulzaxitservices/issues/">Request Feature</a>
+  </h4>
+</div>
 
-## 👨‍💻 Profile Summary
-I am **Sulaman Bashir**, a results-driven **MERN Stack Developer** passionate about building high-performance, scalable, and intuitive web applications. Skilled in **MongoDB, Express, React, and Node.js**, I specialize in creating user-friendly experiences and delivering projects that exceed expectations.
+<br />
 
----
+# :notebook_with_decorative_cover: Table of Contents
 
-## 💼 Experience
-**Freelance Web Developer & Graphic Designer**  
-*Upwork | Fiverr | LinkedIn*  
-
-- Delivered multiple full-stack projects using the **MERN stack**, including dynamic web applications and dashboards.  
-- Developed responsive and user-friendly web applications for international clients with modern **UI/UX design**.  
-- Integrated backend **APIs** and managed database operations using **MongoDB, Express, and Node.js**.  
-- Built and customized front-end components with **React.js**, ensuring seamless functionality and interactive design.  
-
----
-
-## 🛠️ Projects
-
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, GSAP  
-**Backend:** Node.js, Express.js, API Integration  
-**Database:** MySQL, MongoDB (NoSQL), SQL  
-
-1. **Coffee Website** – Showcase of products with smooth navigation and responsive design.  
-2. **Animation Website** – Interactive website with modern CSS animations.  
-3. **IT Company Website** – Professional design with responsive layout and backend support.  
-4. **Car Website** – Dynamic listings with full CRUD functionality.  
-5. **Perfume E-commerce Website** – Integrated with Firebase for seamless product management.  
-
-**Tools & Technologies:** Git, GitHub, Postman, VS Code, AI tools (MidJourney) for design enhancement, version control, and automation.
-
----
-
-## 🎓 Education
-**National Logistics Corporation University (ATIN NLC)**  
-B.E. in Computer Science and Engineering  
-
-**Relevant Coursework:** Object-Oriented Programming, Databases, Data Structures & Algorithms, Operating Systems, Computer Networks, Machine Learning, Data Mining, Advanced Data Structures, Information Retrieval, Image Processing  
-
----
-
-## 💡 Key Skills
-
-**Technical Skills:**  
-- HTML5, CSS3, JavaScript, TypeScript  
-- React.js, Angular, Next.js  
-- Node.js, Express.js, API Integration  
-- MongoDB, MySQL, SQL, Firebase  
-- Bootstrap, Tailwind CSS, GSAP  
-- Git, GitHub, VS Code  
-
-**Soft Skills:**  
-- Problem Solving | Teamwork | Communication | Adaptability  
-- Time Management | Attention to Detail | Creativity | Critical Thinking  
-
----
-
-## 🔗 Accounts / Projects
-- **LinkedIn:** [https://www.linkedin.com/in/sulzaxdev](https://www.linkedin.com/in/sulzaxdev/)  
-- **GitHub:** [https://github.com/dev-sulman](https://github.com/dev-sulman)  
+- [About Me](#star2-about-me)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  * [Color Reference](#art-color-reference)
+  * [Environment Variables](#key-environment-variables)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Run Locally](#running-run-locally)
+- [Usage](#eyes-usage)
+- [Roadmap](#compass-roadmap)
+- [Contributing](#wave-contributing)
+  * [Code of Conduct](#scroll-code-of-conduct)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
 ---
 
-## 🌐 Languages
-- **English:** Proficient  
+## :star2: About Me
+
+Hi! I'm **Sulman Bashir**, a MERN & Full Stack Web Developer with 2+ years of experience building modern web applications. I focus on clean UI/UX, responsive design, and full functionality.
+
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Project+Screenshot" alt="screenshot" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sulmandev&show_icons=true&locale=en&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulmandev&show_icons=true&locale=en)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulmandev)
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Frontend</summary>
+  <ul>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>TypeScript</li>
+    <li>Tailwind CSS / CSS</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li>Node.js / Express.js</li>
+    <li>MongoDB / Mongoose</li>
+    <li>GraphQL / Apollo</li>
+    <li>Socket.IO</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Database</summary>
+  <ul>
+    <li>MongoDB</li>
+    <li>PostgreSQL</li>
+    <li>Redis</li>
+  </ul>
+</details>
+
+<details>
+  <summary>DevOps & Tools</summary>
+  <ul>
+    <li>Docker</li>
+    <li>Jenkins / GitHub Actions</li>
+    <li>VS Code</li>
+    <li>Postman</li>
+  </ul>
+</details>
+
+---
+
+### :dart: Features
+
+- Modern responsive web applications
+- Full-stack architecture (MERN / Next.js)
+- API integration (REST & GraphQL)
+- Realtime functionality with Socket.IO
+- Clean, maintainable, and scalable code
+
+---
+
+### :art: Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color     | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color   | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color      | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color        | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+
+---
+
+### :key: Environment Variables
+
+Add these in `.env` file:
+
